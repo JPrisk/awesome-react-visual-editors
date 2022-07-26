@@ -1,3 +1,10 @@
+name: Test links
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     name: Awesomebot
