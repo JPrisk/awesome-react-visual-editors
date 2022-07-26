@@ -15,6 +15,9 @@
 - [Sanity](https://www.sanity.io/) - The Sanity Studio is an open-source CMS built with React.js. It offers rapid configuration and free form customization.
 - [Storyblok](https://www.storyblok.com/) - The visual editor of Storyblok gives you a preview of the changes you make to your website, even before those changes go live.
 
+## Selfhosted
+- [Webiny](https://www.webiny.com/) - Our open source serverless CMS offers you all the enterprise-grade functionalities, while keeping your data within the security perimeter of your own infrastructure.
+
 ## Other
 - [Blocks](https://blocks-ui.com/) - *Currently under development* A JSX-based page builder for creating beautiful websites without writing code
 - [Leva](https://github.com/pmndrs/leva) - *Currently under development* A GUI you are going to lava. Customizable, extensible and beautiful by default. 
