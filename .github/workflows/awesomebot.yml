@@ -1,0 +1,11 @@
+jobs:
+  build:
+    name: Awesomebot
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Ruby 3.0
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+      - name: Run Awesomebot
+        run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/awesomebot/master/pipeline.sh)
