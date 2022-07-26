@@ -16,3 +16,4 @@
 
 ## Other
 - [Blocks](https://blocks-ui.com/) - *Currently under development* A JSX-based page builder for creating beautiful websites without writing code
+- [Leva](https://github.com/pmndrs/leva) - *Currently under development* A GUI you are going to lava. Customizable, extensible and beautiful by default. 
