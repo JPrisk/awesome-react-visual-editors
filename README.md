@@ -14,7 +14,9 @@
 - [React Bricks](https://reactbricks.com/) - CMS for Next.js, Gatsby, Remix based on React components
 - [Sanity](https://www.sanity.io/) - The Sanity Studio is an open-source CMS built with React.js. It offers rapid configuration and free form customization.
 - [Storyblok](https://www.storyblok.com/) - The visual editor of Storyblok gives you a preview of the changes you make to your website, even before those changes go live.
+- [Stackbit*](https://www.stackbit.com/) - Stackbit is a visual experience platform, for teams building and operating enterprise websites, with a composable headless tech stack.
 
+\* can use git or plug into other CMS
 ## Selfhosted
 - [Webiny](https://www.webiny.com/) - Our open source serverless CMS offers you all the enterprise-grade functionalities, while keeping your data within the security perimeter of your own infrastructure.
 
