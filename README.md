@@ -18,6 +18,7 @@
 
 \* can use git or plug into other CMS
 ## Selfhosted
+- [Openblocks](https://github.com/openblocks-dev/openblocks) - Build internal tools fast, with no limitations
 - [Webiny](https://www.webiny.com/) - Our open source serverless CMS offers you all the enterprise-grade functionalities, while keeping your data within the security perimeter of your own infrastructure.
 
 ## Other
