@@ -15,8 +15,10 @@ Use Decap CMS with any static site generator for a faster and more flexible web 
 - [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack
 - [React Bricks](https://reactbricks.com/) - CMS for Next.js, Gatsby, Remix based on React components
 - [Sanity](https://www.sanity.io/) - The Sanity Studio is an open-source CMS built with React.js. It offers rapid configuration and free form customization.
-- [Storyblok](https://www.storyblok.com/) - The visual editor of Storyblok gives you a preview of the changes you make to your website, even before those changes go live.
 - [Stackbit*](https://www.stackbit.com/) - Stackbit is a visual experience platform, for teams building and operating enterprise websites, with a composable headless tech stack.
+- [Storyblok](https://www.storyblok.com/) - The visual editor of Storyblok gives you a preview of the changes you make to your website, even before those changes go live.
+- [Suncil](https://suncel.io/) - Simple visual builder for marketers and publishers, SEO-optimized headless CMS based on Next.js.
+
 
 \* can use git or plug into other CMS
 ## Selfhosted
