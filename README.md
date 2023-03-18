@@ -26,7 +26,7 @@ Use Decap CMS with any static site generator for a faster and more flexible web 
 - [Webiny](https://www.webiny.com/) - Our open source serverless CMS offers you all the enterprise-grade functionalities, while keeping your data within the security perimeter of your own infrastructure.
 
 ## Other
-- [Blocks](https://blocks-ui.com/) - *Currently under development* A JSX-based page builder for creating beautiful websites without writing code
+- [Blocks](https://blocks-ui.com/) - *Implementation reference, not production ready* A JSX-based page builder for creating beautiful websites without writing code
 - [Leva](https://github.com/pmndrs/leva) - *Currently under development* A GUI you are going to lava. Customizable, extensible and beautiful by default. 
 - [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library.
 - [Sunmao](https://github.com/smartxworks/sunmao-ui) - Sunmao(榫卯 /suən mɑʊ/) is a front-end low-code framework
