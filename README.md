@@ -6,7 +6,8 @@
 
 ## Git based
 - [Codux](https://www.codux.com/) - Codux is a desktop application. Build and edit components visually and side-by-side with your project’s codebase.
-- [Netlify CMS](https://www.netlifycms.org/) - Create custom-styled previews, UI widgets, and editor plugins or add backends to support different Git platform APIs.
+- [Decap CMS](https://decapcms.org/) (*formerly Netlfiy CMS*) - Open source content management for your Git workflow
+Use Decap CMS with any static site generator for a faster and more flexible web project.
 - [Tina](https://tina.io/) - Tina is an open-source, Git-backed CMS with the ability to add visual editing to your NextJS site
   
 ## Hosted 
