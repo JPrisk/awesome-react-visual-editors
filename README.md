@@ -26,6 +26,7 @@
 - [Openblocks](https://github.com/openblocks-dev/openblocks) - Build internal tools fast, with no limitations.
 - [Payload](https://payloadcms.com/) - Power anything from websites to internal tools with the open-source backend & modern admin UI that you truly own.
 - [Puck](https://github.com/measuredco/puck) - The self-hosted, drag and drop editor for React.
+- [UnfoldCMS](https://unfoldcms.com/) - Self-hosted CMS with a React 19 + shadcn/ui admin built on Laravel 12, featuring headless REST API and integrations for Next.js, Astro, SvelteKit, and Nuxt.
 - [Webiny](https://www.webiny.com/) - Our open source serverless CMS offers you all the enterprise-grade functionalities, while keeping your data within the security perimeter of your own infrastructure.
 
 ## Other
